@@ -237,4 +237,4 @@ This repository serves as the official landing page for Tibia. The software is d
 **Get the most recent version of Tibia today!**
 
 ---
-**Last updated:** 2026-10-13 20:03:19 UTC
+**Last updated:** 2026-10-14 00:07:13 UTC
